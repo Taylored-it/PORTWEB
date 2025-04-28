@@ -1,4 +1,11 @@
 # PORTWEB
+Jonathan	chagga	
+Steven	matete	
+Nebert	kuria		
+Barnabas	bonde	
+Karabo	selokela		
+Brayan	malova		
+Keeya	helga	
 # John Watson Portfolio Website
 
 This project is a personal portfolio website built with basic **HTML** and **CSS**.
